@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashish Uike</h1>
 <h3 align="center">A passionate coder...</h3>
 
+<img src = "unsplash.jpg">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murkbyash&label=Profile%20views&color=0e75b6&style=flat" alt="murkbyash" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murkbyash" alt="murkbyash" /></a> </p>
@@ -23,7 +25,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ashish-uike-7126391b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashish-uike-7126391b4/" height="30" width="40" /></a>
 <a href="https://kaggle.com/ashishuike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ashishuike" height="30" width="40" /></a>
-<a href="https://instagram.com/murkbyash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/murkbyash/" height="30" width="40" /></a>
+
 <a href="https://www.codechef.com/users/ashman_9617" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/ashman_9617" height="30" width="40" /></a>
 </p>
 
