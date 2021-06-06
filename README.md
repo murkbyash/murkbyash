@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **machine learning tools**
 
-- 🌱 I’m currently learning **deep learning**
+- 🌱 I’m currently pursuing **Mechanical Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/murkbyash](https://github.com/murkbyash)
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [works on data analysis, build websites](works on data analysis, build websites)
 
-- ⚡ Fun fact **I think I can code for atleast 24 hrs...**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
