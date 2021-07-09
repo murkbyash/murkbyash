@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/murkbyash](https://github.com/murkbyash)
 
-- 💬 Ask me about **python, django**
+- 💬 Ask me about **Python, C++**
 
 - 📫 How to reach me **ashishuike8@gmail.com**
 
