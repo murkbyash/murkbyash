@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ashish Uike</h1>
 <h3 align="center">A passionate coder...</h3>
 
-<img src = "unsplash.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murkbyash&label=Profile%20views&color=0e75b6&style=flat" alt="murkbyash" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murkbyash" alt="murkbyash" /></a> </p>
 
-- 🔭 I’m currently working on **machine learning tools**
+- 🔭 I’m currently learning  **DATA STRUCTURES AND ALGORITHMS**
 
 - 🌱 I’m currently pursuing **Mechanical Engineering**
 
