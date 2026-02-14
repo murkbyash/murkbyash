@@ -1,40 +1,91 @@
-<h1 align="center">Hi 👋, I'm Ashish Uike</h1>
-<h3 align="center">A passionate coder...</h3>
+# Hi there, I'm Ashish Uike 👋
 
+## 🚀 About Me
 
+I'm a **Technical Lead at HCLTech** specializing in **Machine Learning**, **Distributed Systems**, and **Backend Engineering**. I build scalable automation systems and high-performance applications that solve real-world problems.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=murkbyash&label=Profile%20views&color=0e75b6&style=flat" alt="murkbyash" /> </p>
+🎓 **B.Tech in Mechanical Engineering** from **IIT Indore** 
+📍 Based in **Hyderabad, India**  
+💼 Currently working on ML-powered telecom billing automation and cloud infrastructure
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murkbyash" alt="murkbyash" /></a> </p>
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently learning  **DATA STRUCTURES AND ALGORITHMS**
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 🌱 I’m currently pursuing **Mechanical Engineering**
+### ML & AI
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-- 👨‍💻 All of my projects are available at [https://github.com/murkbyash](https://github.com/murkbyash)
+### Backend & Databases
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-- 💬 Ask me about **Python, C++**
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 📫 How to reach me **ashishuike8@gmail.com**
+## 💼 Professional Experience
 
-- 📄 Know about my experiences [works on data analysis, build websites](works on data analysis, build websites)
+### 🏢 HCLTech | Technical Lead
+**Oct 2023 - Present | Hyderabad, India**
 
+#### Next Billing System (NBS) Automation
+*Machine Learning • Python • OracleDB • Random Forest • CatBoost • SHAP*
 
+- Engineered ML automation system for telecom billing to predict bill summary discrepancies, reducing customer complaints
+- Designed incremental learning pipeline processing **40+ lakh records monthly** without full retraining
+- Optimized ensemble models with SHAP-based explainability for transparent mismatch detection
+- Integrated Python-based ML workflows with OracleDB for automated data extraction and validation
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashish-uike-7126391b4/" target="blank"><img align="center" src="linkedIn_PNG11.png" alt="https://www.linkedin.com/in/ashish-uike-7126391b4/" height="20" width="30" /></a>
-<a href="https://kaggle.com/ashishuike" target="blank"><img align="center" src="Kaggle_logo.png" alt="https://www.kaggle.com/ashishuike" height="30" width="40" /></a>
+#### Adobe Tag Automation Platform
+*Python • Jira API • QTest API • Google Sheets API • Looker Studio*
 
-<a href="https://www.codechef.com/users/ashman_9617" target="blank"><img align= "center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/ashman_9617" height="20" width="40" /></a>
-</p>
+- Automated Adobe Analytics tag validation with Python-based integration layer
+- **Reduced manual testing effort by 60%** using live Looker Studio dashboards
+- Developed rule-based validation scripts ensuring tag consistency across web applications
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+## 🔥 Featured Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murkbyash&show_icons=true&locale=en&layout=compact" alt="murkbyash" /></p>
+### 🤖 [AI-Powered Medical Chatbot (RAG Pipeline)](https://github.com/murkbyash)
+*Python • LangChain • FAISS • HuggingFace • Streamlit • Ollama*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murkbyash&show_icons=true&locale=en" alt="murkbyash" /></p>
+Open-source RAG application for chatting with medical documents locally with **zero data leakage**
+- Modular backend using LangChain for document ingestion and conversational memory
+- FAISS vector database for similarity search with HuggingFace embeddings
+- Local LLMs (Phi3-mini/Llama3) via Ollama as private API alternative
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murkbyash&" alt="murkbyash" /></p>
+### ⚡ [Distributed URL Shortener](https://github.com/murkbyash)
+*FastAPI • PostgreSQL • Redis • Redpanda • Docker • Prometheus • Grafana*
 
+High-performance distributed URL shortening service with impressive metrics:
+- **1,094 requests/second** with **98.80ms P99 latency**
+- **100% cache hit rate** with **2.7ms P50 latency** using multi-layer Redis caching
+- **90% database load reduction** during sustained testing (11,000+ requests)
+- Event-driven analytics pipeline using Redpanda (Kafka) with **<2ms overhead**
+- Observability stack with **10+ Grafana dashboards** monitoring **13 containerized services**
+
+## 📊 Competitive Programming
+
+- 🏆 **LeetCode**: Max Rating **1601** | **650+ problems solved**
+- 🥈 **InterviewBit**: **300+ problems** | **Rank 13**
+- 🥉 **GeeksforGeeks**: **350+ problems** | **Rank 21**
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-uike-7126391b4/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/murkbyash)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishuike8@gmail.com)
+
+---
+
+💡 *"Building scalable systems and ML solutions that make a difference"*
